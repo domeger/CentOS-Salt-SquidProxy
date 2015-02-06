@@ -1,0 +1,1 @@
+{"virtualbox":{"/srv/salt":{"guestpath":"/srv/salt","hostpath":"/Users/deger/Desktop/Squid-CentOS-SaltState/salt","disabled":false},"/srv/pillar":{"guestpath":"/srv/pillar","hostpath":"/Users/deger/Desktop/Squid-CentOS-SaltState/pillar","disabled":false},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/deger/Desktop/Squid-CentOS-SaltState/vagrant","disabled":false}}}
